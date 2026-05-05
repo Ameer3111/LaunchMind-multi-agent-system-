@@ -271,13 +271,13 @@ CampusEats — a peer marketplace where university students list and buy homemad
 
 ---
 
-## Group Members
+## Contributors:
 
 | Member | Agent(s) Owned |
 |--------|---------------|
-| 24i-7808_Abdul_Rasheed | CEO Agent |
-| 22i-1436_Ameer_Hamza | Product Agent + Engineer Agent |
-| 24i-8033_Muhammad_Naeem | Marketing Agent + QA Agent |
+| Abdul_Rasheed | CEO Agent |
+| Ameer_Hamza | Product Agent + Engineer Agent |
+| Muhammad_Naeem | Marketing Agent + QA Agent |
 
 ---
 
