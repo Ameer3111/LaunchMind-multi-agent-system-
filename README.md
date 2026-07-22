@@ -227,38 +227,38 @@ CampusEats — a peer marketplace where university students list and buy homemad
 ## Expected Output
 
 ```
-✅  All environment variables loaded
+  All environment variables loaded
 
 ==================================================================
 🚀  LAUNCHMIND STARTUP INCUBATOR
 ==================================================================
 
-👔 PRODUCT AGENT: Generating product specification …
-  🧠 [PRODUCT] Calling LLM to generate product spec …
-  ✅ Spec generated:
+ PRODUCT AGENT: Generating product specification …
+   [PRODUCT] Calling LLM to generate product spec …
+   Spec generated:
      project_name      : CampusEats
      value_proposition : A peer-to-peer campus food marketplace ...
 
-📤 [CEO → ENGINEER] type=task | id=msg-a1b2c3d4
+ [CEO → ENGINEER] type=task | id=msg-a1b2c3d4
 
-⚙️  ENGINEER AGENT: Building landing page & pushing to GitHub …
-  🧠 [ENGINEER] Calling LLM to generate HTML landing page …
-  ✅ Branch created
-  ✅ File committed
-  ✅ PR opened: https://github.com/you/launchmind-campuseats/pull/1
+  ENGINEER AGENT: Building landing page & pushing to GitHub …
+   [ENGINEER] Calling LLM to generate HTML landing page …
+   Branch created
+   File committed
+   PR opened: https://github.com/you/launchmind-campuseats/pull/1
 
-📣 MARKETING AGENT: Generating copy, sending email & Slack …
-  🧠 [MARKETING] Calling LLM to generate marketing copy …
-  ✅ Email sent to you@email.com via SendGrid
-  ✅ Slack message posted to #launches
+ MARKETING AGENT: Generating copy, sending email & Slack …
+   [MARKETING] Calling LLM to generate marketing copy …
+   Email sent to you@email.com via SendGrid
+   Slack message posted to #launches
 
-🔬 QA AGENT: Reviewing HTML and marketing copy …
-  🏁 QA Verdict: PASS
+ QA AGENT: Reviewing HTML and marketing copy …
+   QA Verdict: PASS
 
-  🎯 [CEO] QA Decision → APPROVE
-  📢 [CEO] Posting final launch summary to Slack …
+   [CEO] QA Decision → APPROVE
+   [CEO] Posting final launch summary to Slack …
 
-🎉  LaunchMind Pipeline COMPLETE
+  LaunchMind Pipeline COMPLETE
 ```
 
 ---
