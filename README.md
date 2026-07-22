@@ -263,21 +263,13 @@ CampusEats — a peer marketplace where university students list and buy homemad
 
 ---
 
-## Links
-
-- **GitHub PR (Engineer Agent):** _(link appears after first run)_
-- **Slack Workspace:** _(add your invite link here)_
-- **Demo Video:** _(add your YouTube/Drive link here)_
-
----
-
 ## Contributors:
 
 
 
 Abdul_Rasheed,
-Ameer_Hamza,
-Muhammad_Naeem 
+Ameer_Hamza
+and Muhammad_Naeem 
 
 ---
 
