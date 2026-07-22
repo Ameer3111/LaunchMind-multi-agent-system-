@@ -6,7 +6,7 @@
 
 ## What Is This?
 
-LaunchMind is a **Multi-Agent System (MAS)** built for the FAST NUCES Agentic AI course assignment. It takes a startup idea as input and autonomously runs an entire micro-startup pipeline — defining the product, building a landing page, pushing code to GitHub, sending a marketing email, and posting to Slack — without any human doing it manually.
+LaunchMind is a **Multi-Agent System (MAS)** built for the FAST NUCES Agentic AI course. It takes a startup idea as input and autonomously runs an entire micro-startup pipeline — defining the product, building a landing page, pushing code to GitHub, sending a marketing email, and posting to Slack — without any human doing it manually.
 
 The startup idea used in this project is **CampusEats**: university students cook extra food at home and list it for sale to nearby students on campus, creating a affordable, community-driven food marketplace.
 
