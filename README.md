@@ -266,10 +266,9 @@ CampusEats — a peer marketplace where university students list and buy homemad
 ## Contributors:
 
 
-
-Abdul_Rasheed,
 Ameer_Hamza
-and Muhammad_Naeem 
+and Abdul_Rasheed
+
 
 ---
 
