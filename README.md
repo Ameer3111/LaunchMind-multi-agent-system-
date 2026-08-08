@@ -269,7 +269,11 @@ CampusEats — a peer marketplace where university students list and buy homemad
 Ameer_Hamza
 and Abdul_Rasheed
 
+## Technical Blog
 
+I wrote a detailed article about the architecture, workflow, challenges, and lessons from building LaunchMind.
+
+👉 [Read the full LaunchMind article on Medium](https://medium.com/@ameer.hamzafastian3111/how-we-built-launchmind-a-five-agent-ai-system-that-turns-a-startup-idea-into-a-launch-workflow-d6363f354e8f)
 ---
 
 ## Bonus Features
